@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.exe
+C:\Users\karun\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb
